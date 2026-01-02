@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif" width="420"/>
+  <img src="https://tenor.com/view/mio-akiyama-computer-anime-typing-type-gif-12003966" width="420"/>
 </p>
 
 
