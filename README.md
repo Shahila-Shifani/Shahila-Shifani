@@ -62,10 +62,10 @@ I am a **Software Engineering undergraduate** with a passion for building **web 
 
 <p align="center">
   <a href="https://github.com/shahila-shifani">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shifanee&show_icons=true&theme=tokyonight"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shahila-shifani&show_icons=true&theme=tokyonight"/>
   </a>
   <a href="https://github.com/shahila-shifani">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifanee&layout=compact&theme=tokyonight"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahila-shifani&layout=compact&theme=tokyonight"/>
   </a>
 </p>
 
