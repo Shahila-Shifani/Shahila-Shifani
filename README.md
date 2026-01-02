@@ -1,87 +1,74 @@
-<h1 align="center">Hi 👨‍💻, I'm Shahila Shifani</h1>
+<h1 align="center">Hi 👋, I'm Shahila Shifani</h1>
+<h3 align="center">Software Engineering Undergraduate | Web & Mobile Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+A+software+engineering+undergraduate+student.."></a>
-</p>
-
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
-
-
-<div style="text-align: center;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=18&duration=3000&pause=1000&color=90EE90&background=B4F0FF00&width=800&height=200&center=true&vCenter=true&lines=I+enjoy+being+responsible+as+part+of+a+team.;Contributing+to+the+growth+of+a+company.;My+goal+is+to+stay+updated+on+the+latest+technologies.;Applying+them+in+everyday+life+and+innovating.;Creating+solutions+that+benefit+humanity." 
-         alt="Typing SVG">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Web+%26+Mobile+Application+Developer;Passionate+About+Clean+UI+%26+UX;Always+Learning+New+Technologies" />
   </a>
-</div>
-
-
-
-<h3>Hey Vishwa You Have 👉 <a href="https://github.com/shahila-shifani" target="_blank" rel="noopener" >
-  <img src="https://komarev.com/ghpvc/?username=vishwaschandrasekara5&style=for-the-badge" alt="Profile Views" style="max-width: 100;"> </a>
-</h3>
-
-
-
-
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
-<br><br></p>
-
-<p align="center"> <a href=""><img src="" alt="" /></a> </p>
-
-<p align="center"> <a href="" target="blank"><img src="" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Front End Web Developer**
-
-- 🌱 I’m currently learning **PHP, HTML, CSS, MySQL,JavaScript**
-
-- 👨‍💻 All of my projects are available at  **[My Portfolio](https://vishwa-portfolio-beta.vercel.app/)**
-
-- 💬 Ask me about **PHP JavaScript**
-
-- 📫 How to reach me **sandunv05@gmail.com**
-
-- ⚡ Fun fact **coding Life**
-
- <h3 align="center">Connect with me:🌐</h3>
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vishwas.chandrasekara) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com//_sanuwa_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwa-s-chandrasekara-6a1071247) 
-[![X](https://img.shields.io/badge/X-000000?logo=X&logoColor=white)](https://x.com/Vishwa_Sandun5) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white)](mailto:sandunv05@gmail.com)
-
-</div>
-
-
-
-
-<h3 align="start">Languages and Tools:</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,bootstrap,css,figma,gcp,html,idea,java,js,jquery,mongodb,mysql,nodejs,php,py,react,nextjs,tailwind,vscode,androidstudio,flutter,laravel,aws,ts,supabase,heroku,django,prisma" 
-       alt="Languages and Tools" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+</p>
 
+---
 
+## 👩‍💻 About Me  
 
+- 🎓 BSc (Hons) Software Engineering – **Year 3**
+- 💻 Interested in **Web & Mobile Application Development**
+- 🌱 Currently learning **PHP, JavaScript, React & Databases**
+- 🤝 Enjoy working in **team-based and agile environments**
+- 🚀 Passionate about **UI/UX, performance & accessibility**
 
+---
 
+## 🛠️ Languages & Tools  
 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,nodejs,mysql,mongodb,java,androidstudio,figma,git,github,vscode" />
+</p>
 
+---
 
+## 📌 Current Focus  
 
+- 🔭 Working on **Front-End & UI/UX Projects**
+- 👨‍💻 Projects available on **GitHub & Portfolio**
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP**
+- 📫 Email: **hellooo.shifani@gmail.com**
 
+---
 
+## 🌐 Connect With Me  
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahilashifani/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hellooo.shifani@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shifanee">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+  </a>
+</p>
 
+---
 
-<!--   <img align="center" width="300" height="250" src="https://github-readme-stats.vercel.app/api?username=ishannikeshalanawarathna&show_icons=true&locale=en" alt="ishannikeshalanawarathna" />&nbsp; -->
-  <!-- <img align="center" width="1000" height="400" src="" alt="" />&nbsp; -->
-<!--   <img align="center" width="300" height="120" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishannikeshalanawarathna&show_icons=true&locale=en&layout=compact" alt="ishannikeshalanawarathna" /> -->
+## 📊 GitHub Stats  
 
-<a href="https://github.com/Vishwaschandrasekara5"><img alt="vishwa's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Vishwaschandrasekara5&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
- <a href="https://github.com/Vishwaschandrasekara5"><img alt="Vishwa's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Vishwaschandrasekara5&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> 
+<p align="center">
+  <a href="https://github.com/shifanee">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shifanee&show_icons=true&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/shifanee">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifanee&layout=compact&theme=tokyonight"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Let’s build something amazing together.
+</p>
