@@ -11,22 +11,23 @@
   <img src="https://media1.tenor.com/m/F0JE157P1loAAAAd/mio-akiyama-computer.gif" width="420"/>
 </p>
 
-
 ---
 
 ## 👩‍💻 About Me  
 
-- 🎓 BSc (Hons) Software Engineering – **Year 3**
-- 💻 Interested in **Web & Mobile Application Development**
-- 🌱 Currently learning **PHP, JavaScript, React & Databases**
-- 🤝 Enjoy working in **team-based and agile environments**
-- 🚀 Passionate about **UI/UX, performance & accessibility**
+I am a **Software Engineering undergraduate** with a passion for building **web and mobile applications**. I enjoy solving problems, refining ideas, and exploring new technologies in **AI/ML, UI/UX, and performance optimization**.  
+
+- 🎓 BSc (Hons) Software Engineering – **Year 3**  
+- 💻 Interested in **Web & Mobile Development, AI/ML**  
+- 🌱 Currently learning **PHP, JavaScript, React, Node.js & Databases**  
+- 🤝 Enjoy working in **team-based and agile environments**  
+- 🚀 Passionate about **UI/UX, accessibility, and innovative solutions**
 
 ---
 
 ## 🛠️ Languages & Tools  
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,nodejs,mysql,mongodb,java,androidstudio,figma,git,github,vscode" />
 </p>
 
@@ -34,9 +35,9 @@
 
 ## 📌 Current Focus  
 
-- 🔭 Working on **Front-End & UI/UX Projects**
-- 👨‍💻 Projects available on **GitHub & Portfolio**
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP**
+- 🔭 Working on **Front-End & UI/UX Projects**  
+- 👨‍💻 Projects available on **[Portfolio](https://your-portfolio-link.com) & GitHub**  
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP**  
 - 📫 Email: **hellooo.shifani@gmail.com**
 
 ---
@@ -50,7 +51,7 @@
   <a href="mailto:hellooo.shifani@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/shifanee">
+  <a href="https://github.com/shahila-shifani">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
   </a>
 </p>
@@ -60,10 +61,10 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <a href="https://github.com/shifanee">
+  <a href="https://github.com/shahila-shifani">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shifanee&show_icons=true&theme=tokyonight"/>
   </a>
-  <a href="https://github.com/shifanee">
+  <a href="https://github.com/shahila-shifani">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifanee&layout=compact&theme=tokyonight"/>
   </a>
 </p>
