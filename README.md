@@ -36,7 +36,7 @@ I am a **Software Engineering undergraduate** with a passion for building **web 
 ## 📌 Current Focus  
 
 - 🔭 Working on **Front-End & UI/UX Projects**  
-- 👨‍💻 Projects available on **[Portfolio](https://your-portfolio-link.com) & GitHub**  
+- 👨‍💻 Projects available on **[Portfolio](https://shifani.liveblog365.com/) & GitHub**  
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP**  
 - 📫 Email: **hellooo.shifani@gmail.com**
 
