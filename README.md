@@ -1,13 +1,13 @@
-````markdown
+```markdown
 <div align="center">
 
-# ✨ Hey There, I'm Shahila Shifani 👋
+<h1>✨ Hey There, I'm Shahila Shifani 👋</h1>
 
-### 💻 Software Engineering Undergraduate | 🚀 Full-Stack Developer | 🎨 UI/UX Enthusiast
+<h3>💻 Software Engineering Undergraduate | 🚀 Full-Stack Developer | 🎨 UI/UX Enthusiast</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub+Profile!;Software+Engineering+Undergraduate;Web+%26+Mobile+Application+Developer;Frontend+Developer+with+Creative+UI+Skills;Always+Learning+Something+New+✨" />
 
-<br>
+<br><br>
 
 <img src="https://media1.tenor.com/m/F0JE157P1loAAAAd/mio-akiyama-computer.gif" width="420"/>
 
@@ -15,21 +15,19 @@
 
 ---
 
-# 🌸 About Me
+<h2>🌸 About Me</h2>
 
-```yaml
-Name: Shahila Shifani
-Education: BSc (Hons) Software Engineering
-Current Year: Year 3 Undergraduate
-Focus: Full-Stack Development + Mobile Apps
-Learning: React | Node.js | PHP | JavaScript
-Passion: UI/UX | Clean Code | Smart Solutions
-Goal: Becoming a Professional Software Engineer 🚀
-````
+<ul>
+  <li>🎓 BSc (Hons) Software Engineering — Year 3 Undergraduate</li>
+  <li>💻 Focused on Full-Stack Development + Mobile Apps</li>
+  <li>🌱 Currently Learning React, Node.js, PHP & JavaScript</li>
+  <li>🎨 Passionate About UI/UX, Clean Code & Smart Solutions</li>
+  <li>🚀 Goal: Becoming a Professional Software Engineer</li>
+</ul>
 
 ---
 
-# ⚡ Tech Stack
+<h2>⚡ Tech Stack</h2>
 
 <div align="center">
 
@@ -39,37 +37,19 @@ Goal: Becoming a Professional Software Engineer 🚀
 
 ---
 
-# 🚀 What I'm Working On
+<h2>🚀 Current Focus</h2>
 
-<img align="right" alt="coding" width="280" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
-### 🔭 Current Projects
-
-* Building modern **Portfolio Websites**
-* Creating **Responsive Front-End UI Designs**
-* Exploring **Mobile App Development**
-* Learning **Backend Development**
-* Improving **GitHub Projects & Open Source Contributions**
-
-### 💬 Ask Me About
-
-* HTML / CSS / JavaScript
-* PHP / React / Node.js
-* UI/UX Design
-* Git & GitHub
-
-### 📫 Reach Me
-
-📧 **[hellooo.shifani@gmail.com](mailto:hellooo.shifani@gmail.com)**
-
-🌐 **Portfolio:**
-[https://shifani.liveblog365.com/](https://shifani.liveblog365.com/)
-
-<br clear="both">
+<ul>
+  <li>🔭 Building Portfolio & Front-End Projects</li>
+  <li>📱 Exploring Mobile App Development</li>
+  <li>💡 Learning Backend Development</li>
+  <li>👨‍💻 Improving GitHub Projects & Open Source Contributions</li>
+  <li>🌐 Portfolio: https://shifani.liveblog365.com/</li>
+</ul>
 
 ---
 
-# 🌍 Let's Connect
+<h2>🌍 Connect With Me</h2>
 
 <div align="center">
 
@@ -89,7 +69,7 @@ Goal: Becoming a Professional Software Engineer 🚀
 
 ---
 
-# 📊 GitHub Analytics
+<h2>📊 GitHub Analytics</h2>
 
 <div align="center">
 
@@ -105,7 +85,7 @@ Goal: Becoming a Professional Software Engineer 🚀
 
 ---
 
-# 🏆 Achievements
+<h2>🏆 Achievements</h2>
 
 <div align="center">
 
@@ -117,18 +97,20 @@ Goal: Becoming a Professional Software Engineer 🚀
 
 <div align="center">
 
-## 💖 Visitor Counter
+<h2>💖 Visitor Counter</h2>
 
 <img src="https://komarev.com/ghpvc/?username=shahila-shifani&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
----
+<br><br>
 
-## ⭐ Final Note
+<h2>⭐ Final Note</h2>
 
-### “Code. Create. Improve. Repeat.” 🚀
+<h3>“Code. Create. Improve. Repeat.” 🚀</h3>
 
-✨ Thank you for visiting my GitHub Profile!
+<p>
+✨ Thank you for visiting my GitHub Profile! <br>
 Let’s connect and build something impactful together.
+</p>
 
 </div>
 ```
