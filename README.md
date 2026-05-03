@@ -1,11 +1,10 @@
-```markdown
 <div align="center">
 
 <h1>✨ Hey There, I'm Shahila Shifani 👋</h1>
 
 <h3>💻 Software Engineering Undergraduate | 🚀 Full-Stack Developer | 🎨 UI/UX Enthusiast</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub+Profile!;Software+Engineering+Undergraduate;Web+%26+Mobile+Application+Developer;Frontend+Developer+with+Creative+UI+Skills;Always+Learning+Something+New+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub+Profile!;Software+Engineering+Undergraduate;Full-Stack+%26+Mobile+App+Developer;Frontend+Developer+with+UI%2FUX+Passion;Always+Learning+Something+New+✨" />
 
 <br><br>
 
@@ -15,19 +14,17 @@
 
 ---
 
-<h2>🌸 About Me</h2>
+## 🌸 About Me
 
-<ul>
-  <li>🎓 BSc (Hons) Software Engineering — Year 3 Undergraduate</li>
-  <li>💻 Focused on Full-Stack Development + Mobile Apps</li>
-  <li>🌱 Currently Learning React, Node.js, PHP & JavaScript</li>
-  <li>🎨 Passionate About UI/UX, Clean Code & Smart Solutions</li>
-  <li>🚀 Goal: Becoming a Professional Software Engineer</li>
-</ul>
+- 🎓 BSc (Hons) Software Engineering — Year 3 Undergraduate  
+- 💻 Passionate about Full-Stack & Mobile App Development  
+- 🌱 Currently learning React, Node.js, PHP & JavaScript  
+- 🎨 Interested in UI/UX design, clean code & modern interfaces  
+- 🚀 Goal: Become a professional software engineer & problem solver  
 
 ---
 
-<h2>⚡ Tech Stack</h2>
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -37,19 +34,17 @@
 
 ---
 
-<h2>🚀 Current Focus</h2>
+## 🚀 Current Focus
 
-<ul>
-  <li>🔭 Building Portfolio & Front-End Projects</li>
-  <li>📱 Exploring Mobile App Development</li>
-  <li>💡 Learning Backend Development</li>
-  <li>👨‍💻 Improving GitHub Projects & Open Source Contributions</li>
-  <li>🌐 Portfolio: https://shifani.liveblog365.com/</li>
-</ul>
+- 🔭 Building portfolio & real-world projects  
+- 📱 Exploring mobile application development  
+- 💡 Strengthening backend development skills  
+- 👨‍💻 Improving GitHub projects & open-source contributions  
+- 🌐 Portfolio: https://shifani.liveblog365.com  
 
 ---
 
-<h2>🌍 Connect With Me</h2>
+## 🌍 Connect With Me
 
 <div align="center">
 
@@ -69,7 +64,7 @@
 
 ---
 
-<h2>📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -85,7 +80,7 @@
 
 ---
 
-<h2>🏆 Achievements</h2>
+## 🏆 Achievements
 
 <div align="center">
 
@@ -97,20 +92,17 @@
 
 <div align="center">
 
-<h2>💖 Visitor Counter</h2>
+## 💖 Visitor Counter
 
 <img src="https://komarev.com/ghpvc/?username=shahila-shifani&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-<br><br>
+---
 
-<h2>⭐ Final Note</h2>
+## ⭐ Final Note
 
-<h3>“Code. Create. Improve. Repeat.” 🚀</h3>
+### “Code. Create. Improve. Repeat.” 🚀
 
-<p>
-✨ Thank you for visiting my GitHub Profile! <br>
+✨ Thank you for visiting my GitHub profile!  
 Let’s connect and build something impactful together.
-</p>
 
 </div>
-```
