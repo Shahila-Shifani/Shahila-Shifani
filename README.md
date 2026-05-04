@@ -133,27 +133,36 @@
 
 ---
 
-**Web Development:**
+🌐 **Web Development**
 
-| <a href="https://github.com/Shahila-Shifani/Shifani-Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahila-Shifani&repo=Shifani-Portfolio&theme=algolia&hide_border=false" />
-</a> 
-| <a href="https://github.com/Shahila-Shifani/todo-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahila-Shifani&repo=todo-app&theme=algolia&hide_border=false" />
-</a> |
-| ------------- | ------------- |
+<p align="center">
+
+<a href="https://github.com/Shahila-Shifani/Shifani-Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahila-Shifani&repo=Shifani-Portfolio&theme=algolia&hide_border=false"/>
+</a>
+
+<!-- <a href="https://github.com/Shahila-Shifani/todo-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahila-Shifani&repo=todo-app&theme=algolia&hide_border=false"/>
+</a> -->
+
+</p>
 
 ---
 
- 📊 **GitHub Stats**
+📊 **GitHub Stats**
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shahila-shifani&show_icons=true&theme=radical&hide_border=true"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahila-shifani&layout=compact&theme=radical&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shahila-Shifani&show_icons=true&theme=radical&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahila-Shifani&layout=compact&theme=radical&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahila-shifani&theme=radical&hide_border=true"/>
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahila-Shifani&theme=radical&hide_border=true"/>
+
 </p>
 
 ---
