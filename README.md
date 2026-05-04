@@ -1,95 +1,159 @@
 <div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=mono&weight=700&size=27&pause=1000&color=000000&width=435&lines=+Welcome+to+My+GitHub+Profile!" alt="Typing SVG" /></a><!-- 🔥 Dark Gradient Banner -->
+<img src="https://capsule-render.vercel.app/api?type=shark&height=300&color=00000&text=𝕊ʜαʜɪʟα%20𝕊ʜɪғαɴɪ&descAlign=0&descAlignY=0&fontAlign=50&fontAlignY=50&animation=fadeIn&desc=𝒮𝑜𝒻𝓉𝓌𝒶𝓇𝑒%20𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇𝒾𝓃𝑔&textBg=false&descSize=20&section=header&reversal=false&fontColor=ffffff">
 
-<h1>✨ Hey There, I'm Shahila Shifani 👋</h1>
-
-<h3>💻 Software Engineering Undergraduate | 🚀 Full-Stack Developer | 🎨 UI/UX Enthusiast</h3>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub+Profile!;Software+Engineering+Undergraduate;Full-Stack+%26+Mobile+App+Developer;Frontend+Developer+with+UI%2FUX+Passion;Always+Learning+Something+New+✨" />
-
-<br><br>
-
-<img src="https://media1.tenor.com/m/F0JE157P1loAAAAd/mio-akiyama-computer.gif" width="420"/>
+<!-- 💻 Tags -->
+<h2> Data Science |  Artificial Intelligence  |  Machine Learning</h2>
 
 </div>
 
----
+<!-- ⚡ Left Image + Right Content Layout -->
+<table>
+<tr>
+<td width="60%">
 
-## 🌸 About Me
+### 🔗 My Links
 
-- 🎓 BSc (Hons) Software Engineering — Year 3 Undergraduate  
-- 💻 Passionate about Full-Stack & Mobile App Development  
-- 🌱 Currently learning React, Node.js, PHP & JavaScript  
-- 🎨 Interested in UI/UX design, clean code & modern interfaces  
-- 🚀 Goal: Become a professional software engineer & problem solver  
+**My Resume | My Portfolio | Kaggle Profile**
 
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,nodejs,mysql,mongodb,java,androidstudio,figma,git,github,vscode&perline=8" />
-
-</div>
-
----
-
-## 🚀 Current Focus
-
-- 🔭 Building portfolio & real-world projects  
-- 📱 Exploring mobile application development  
-- 💡 Strengthening backend development skills  
-- 👨‍💻 Improving GitHub projects & open-source contributions  
 - 🌐 Portfolio: https://shifani.liveblog365.com  
+- 📄 Resume: (add your resume link here)  
+- 📊 Kaggle: (add your kaggle link here)
+<br>
+
+### ⚡ Focus Areas
+- Data Science
+- Artificial Intelligence
+- Machine Learning
+- Web & Mobile Development 
+
+</td> 
+
+<td width="40%">
+<img src="https://media1.tenor.com/m/F0JE157P1loAAAAd/mio-akiyama-computer.gif" width="80%"/>
+</td>
+
+
+
+</tr>
+</table>
+
+---
+ 👨‍💻**About Me:**
+
+- ✨ Software Engineering Undergraduate (BSc Hons, Year 3)
+- 💻 Passionate about software development & real-world problem solving
+- 🤖 Interested in Artificial Intelligence, Machine Learning & Data Science
+- 📱 Experienced in Web & Mobile Application Development
+- 🚀 Focused on building scalable and efficient systems
+- 🌱 Always learning new technologies and improving skills
 
 ---
 
-## 🌍 Connect With Me
+<!-- ================= TECH STACK ================= -->
+ 🚀 **Tech Stack:**
 
-<div align="center">
+<table>
+<tr>
+<td>
+  
+### 💻 Programming
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,kotlin" />
 
-<a href="https://www.linkedin.com/in/shahilashifani/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 🎨 Front-End
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
 
-<a href="mailto:hellooo.shifani@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
-<a href="https://github.com/shahila-shifani">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
 
-</div>
+</td>
+
+<td>
+
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+### ⚙️ Back-End
+<img src="https://skillicons.dev/icons?i=spring,php,nodejs" />
+
+### 📱 Mobile
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java" />
+
+### ☁️ DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
+
+</td>
+</tr>
+</table>
+
 
 ---
 
-## 📊 GitHub Analytics
+# ✅ Professional Interests
 
-<div align="center">
+- ⚙️ Building efficient and scalable applications  
+- 🛠️ Automating workflows & improving DevOps pipelines  
+- 🌐 Exploring cloud computing & AI integrations  
+- 📊 Working with data-driven systems  
 
+---
+
+# 📈 Growth Mindset
+
+- 🎡 Stay curious and keep learning  
+- ⚡ Adapt to emerging technologies  
+- 🏆 Focus on continuous improvement  
+- 🚀 Build impactful real-world solutions  
+
+---
+
+🔍 **Find Me Online:**
+- Medium: Sharing my perspectives on **tech blogs** and **developer journeys**.
+- LinkedIn: Let's connect and collaborate for **innovative projects** and **opportunities**.
+- Email: Reach me at **hellooo.shifani@gmail.com**.
+---
+
+# 🎮 Outside the Code
+
+- 🎮 Gamer — exploring virtual worlds  
+- 📸 Photographer — capturing moments  
+- 📚 Reader — learning through books  
+
+---
+
+<h3 align="left">Web Development:</h3>
+
+| <a href="https://github.com/Shahila-Shifani/Shifani-Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahila-Shifani&repo=Shifani-Portfolio&theme=algolia&hide_border=false" />
+</a> 
+| <a href="https://github.com/Shahila-Shifani/todo-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahila-Shifani&repo=todo-app&theme=algolia&hide_border=false" />
+</a> |
+| ------------- | ------------- |
+
+# 📊 GitHub Stats
+
+<p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shahila-shifani&show_icons=true&theme=radical&hide_border=true"/>
-
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahila-shifani&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
-<br><br>
-
+<p align="center">
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahila-shifani&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shahila-shifani&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
-
-</div>
+</p>
 
 ---
 
+# 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shahila-shifani&theme=blackl&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
+
+---
 <div align="center">
 
 ## 💖 Visitor Counter
@@ -98,11 +162,14 @@
 
 ---
 
-## ⭐ Final Note
+# 💖 Final Note
 
-### “Code. Create. Improve. Repeat.” 🚀
+> “Code. Create. Improve. Repeat.” 🚀  
 
-✨ Thank you for visiting my GitHub profile!  
-Let’s connect and build something impactful together.
+✨ Thanks for visiting my GitHub profile!  
+Let’s connect and build something amazing together.
+
+
+
 
 </div>
