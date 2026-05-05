@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=00000&text=𝕊ʜαʜɪʟα%20𝕊ʜɪғαɴɪ&descAlign=0&descAlignY=0&fontAlign=50&fontAlignY=50&animation=fadeIn&desc=𝒮𝑜𝒻𝓉𝓌𝒶𝓇𝑒%20𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇𝒾𝓃𝑔&textBg=false&descSize=20&section=header&reversal=false&fontColor=ffffff">
 
 <!-- 💻 Tags -->
-**Data Science  |  Artificial Intelligence  |  Machine Learning** 
+**Software Engineering  | Artificial Intelligence  |  Machine Learning  |  Data Science.** 
 
 
 
@@ -46,7 +46,7 @@
 
 - ✨ Software Engineering Undergraduate (BSc Hons, Year 3)
 - 💻 Passionate about software development & real-world problem solving
-- 🤖 Interested in Artificial Intelligence, Machine Learning & Data Science
+- 🤖 Strong interest in Software Engineering, Artificial Intelligence, Machine Learning, and Data Science.
 - 📱 Experienced in Web & Mobile Application Development
 - 🚀 Focused on building scalable and efficient systems
 - 🌱 Always learning new technologies and improving skills
