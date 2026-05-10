@@ -132,7 +132,53 @@
 - 🌿 Nature Walks — keeping a calm and clear mindset  
 
 ---
+👋 **Open Source Contributor**
 
+I actively contribute to open-source projects focused on developer experience, SDK usability, and reliable API integrations.
+
+---
+
+ 🚀 **Contributions Overview**
+
+- Bug fixes and CI reliability improvements
+- SDK example development (Python & Node.js)
+- API integration debugging and runtime issue resolution
+- Documentation improvements for contributor onboarding
+- Security-focused enhancements in authentication workflows
+
+---
+
+ 🔧 **Key Contributions**
+
+ **CI / Build Stability**
+- Fixed Ruff linting issues affecting Python SDK examples
+- Improved CI reliability by resolving false-positive lint failures
+
+ **SDK Development**
+- Built and improved Python SDK examples (authentication + end-to-end workflows)
+- Added Node.js quickstart example for better developer onboarding
+
+ **API Integration**
+- Assisted in resolving runtime issues in OpenAI Responses API integration (Symphony AI Agent project)
+
+ **Documentation**
+- Improved README and contributor onboarding guides
+- Enhanced RFC navigation and documentation structure
+- Extended anti-replay security guide with nonce storage backend guidance
+
+---
+ 🛠️ **Tech Stack**
+Python · Node.js · CI/CD · GitHub Actions · REST APIs · OpenAI APIs · Documentation Engineering
+
+---
+
+ 📌 **Focus Areas**
+- Developer Experience (DX)
+- Open Source Tooling
+- API Integration Reliability
+- Secure Authentication Workflows
+
+---
 🌐 **Web Development**
 
 <p align="center">
@@ -141,8 +187,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahila-Shifani&repo=Shifani-Portfolio&theme=algolia&hide_border=false"/>
 </a>
 
-<!-- <a href="https://github.com/Shahila-Shifani/todo-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahila-Shifani&repo=todo-app&theme=algolia&hide_border=false"/>
+<!-- <a href="https://github.com/Shahila-Shifani/CGU-Website-Admin-Panel-DEMO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahila-Shifani&repo=CGU-Website-Admin-Panel-DEMO&theme=algolia&hide_border=false"/>
 </a> -->
 
 </p>
