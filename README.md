@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=mono&weight=700&size=27&pause=1000&color=000000&width=435&lines=+Welcome+to+My+GitHub+Profile!" alt="Typing SVG" /></a><!-- 🔥 Dark Gradient Banner -->
-<img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=00000&text=𝕊ʜαʜɪʟα%20𝕊ʜɪғαɴɪ&descAlign=0&descAlignY=0&fontAlign=50&fontAlignY=50&animation=fadeIn&desc=𝒮𝑜𝒻𝓉𝓌𝒶𝓇𝑒%20𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇𝒾𝓃𝑔&textBg=false&descSize=20&section=header&reversal=false&fontColor=ffffff">
+<img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=00000&text=𝕊ʜαʜɪʟα%20𝕊ʜɪғαɴɪ&descAlign=0&descAlignY=0&fontAlign=50&fontAlignY=50&animation=fadeIn&desc=𝒮𝑜𝒻𝓉𝓌𝒶𝓇𝑒%20𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇𝒾𝓃𝑔&textBg=false&descSize=20&section=header&reversal=false&fontColor=ffffff">
 
 <!-- 💻 Tags -->
 **Software Engineering  | Artificial Intelligence  |  Machine Learning  |  Data Science.** 
