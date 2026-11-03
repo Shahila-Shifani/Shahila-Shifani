@@ -43,7 +43,7 @@
 
  👨‍💻**About Me:**
 
-- ✨ Software Engineering Undergraduate (BSc Hons, Year 3)
+- ✨ Software Engineering Undergraduate (BSc Hons, Year 4)
 - 💻 Passionate about software development & real-world problem solving
 - 🤖 Strong interest in Software Engineering, Artificial Intelligence, Machine Learning, and Data Science.
 - 📱 Experienced in Web & Mobile Application Development
