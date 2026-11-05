@@ -222,18 +222,18 @@ Analysing student performance data and exploring predictive modelling.
 <tr>
 <td width="48%" valign="middle">
 
-<img src="./assets/screenshots/In Development.jpg" width="100%" alt="Sales Analytics dashboard screenshot"/>
+<img src="./assets/screenshots/" width="100%" alt="Sales Analytics dashboard screenshot"/>
 
 </td>
 <td width="52%" valign="top">
 
 ### 📈 Business Intelligence Dashboard
 
-**Status:** 🟡 In Development
+**Status:** 🟢 Developed
 
 A business intelligence project focused on analysing sales performance, revenue, profit, and product trends.
 
-**Planned Features**
+**Features**
 - Sales and revenue analysis.
 - Profit and margin insights.
 - Data preparation and transformation.
