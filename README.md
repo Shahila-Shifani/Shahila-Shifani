@@ -87,7 +87,7 @@ I'm exploring AI, Machine Learning, NLP, Generative AI, and Data Analytics—bui
 <tr>
 <td width="48%" valign="middle">
 
-<img src="./assets/screenshots/resumeiq.png" width="100%" alt="ResumeIQ-AI application screenshot"/>
+<img src="./assets/screenshots/ResumeIQ-AI.png" width="100%" alt="ResumeIQ-AI application screenshot"/>
 
 </td>
 <td width="52%" valign="top">
@@ -120,7 +120,7 @@ An AI-powered application designed to help users understand how well their resum
 <tr>
 <td width="48%" valign="middle">
 
-<img src="./assets/screenshots/spamguard.png" width="100%" alt="SpamGuard-AI screenshot"/>
+<img src="./assets/screenshots/SpamGuard-AI.png" width="100%" alt="SpamGuard-AI screenshot"/>
 
 </td>
 <td width="52%" valign="top">
@@ -153,7 +153,7 @@ A Machine Learning project for classifying SMS messages as spam or legitimate.
 <tr>
 <td width="48%" valign="middle">
 
-<img src="./assets/screenshots/documind.png" width="100%" alt="DocuMind screenshot"/>
+<img src="./assets/screenshots/In Development.jpg" width="100%" alt="DocuMind screenshot"/>
 
 </td>
 <td width="52%" valign="top">
@@ -184,7 +184,7 @@ A planned RAG application that lets users upload documents and ask questions abo
 <tr>
 <td width="48%" valign="middle">
 
-<img src="./assets/screenshots/student-performance.png" width="100%" alt="Student Performance project screenshot"/>
+<img src="./assets/screenshots/Student-Performance-Prediction.png" width="100%" alt="Student Performance project screenshot"/>
 
 </td>
 <td width="52%" valign="top">
@@ -222,7 +222,7 @@ Analysing student performance data and exploring predictive modelling.
 <tr>
 <td width="48%" valign="middle">
 
-<img src="./assets/screenshots/sales-analytics.png" width="100%" alt="Sales Analytics dashboard screenshot"/>
+<img src="./assets/screenshots/In Development.jpg" width="100%" alt="Sales Analytics dashboard screenshot"/>
 
 </td>
 <td width="52%" valign="top">
@@ -285,7 +285,7 @@ Exploring shopping behaviour, customer segments, and spending patterns.
 <tr>
 <td width="48%" valign="middle">
 
-<img src="./assets/screenshots/hr-analytics.png" width="100%" alt="HR Analytics dashboard screenshot"/>
+<img src="./assets/screenshots/In Development.jpg" width="100%" alt="HR Analytics dashboard screenshot"/>
 
 </td>
 <td width="52%" valign="top">
@@ -317,7 +317,44 @@ Exploring employee attrition patterns and workforce trends through data analysis
   <img src="https://img.shields.io/badge/PROJECTS-2-00F5FF?style=flat-square"/>
 </p>
 
-## 08 · CGU Career Guidance Platform
+## 08 · Personal Portfolio Website
+
+<table>
+<tr>
+<td width="48%" valign="middle">
+
+<img src="./assets/screenshots/portfolio.png" width="100%" alt="Personal Portfolio Website screenshot"/>
+
+</td>
+<td width="52%" valign="top">
+
+### 🌐 My Developer Portfolio
+
+**Status:** 🟢 Developed
+
+My personal portfolio website showcasing my AI, Machine Learning, Data Analytics, Software Engineering projects, technical skills, research interests, certifications, and professional journey.
+
+**Features**
+- Personal introduction and professional profile.
+- AI, ML, and software development project showcase.
+- Technical skills and technology highlights.
+- Research, certifications, and achievements.
+- Contact and professional social links.
+
+**Tech:** PHP · HTML · CSS · JavaScript
+
+**Live Demo:** [Visit Portfolio ↗](https://shifani-portfolio.pages.dev)
+
+**GitHub:** [View Repository ↗](https://github.com/Shahila-Shifani)
+
+</td>
+</tr>
+</table>
+
+---
+
+
+## 09 · CGU Career Guidance Platform
 
 <table>
 <tr>
