@@ -292,7 +292,7 @@ Exploring shopping behaviour, customer segments, and spending patterns.
 
 ### 👥 HR Data Analytics
 
-**Status:** 🟢 Developed
+**Status:** 🟡 In Development
 
 Exploring employee attrition patterns and workforce trends through data analysis.
 
