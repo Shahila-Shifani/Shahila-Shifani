@@ -21,7 +21,7 @@
 
 <br/>
 
-<a href="https://shifani-portfolio.kesug.com/public/index.php">Portfolio</a> •
+<a href="https://shifani-portfolio.pages.dev">Portfolio</a> •
 <a href="https://www.linkedin.com/in/shahilashifani">LinkedIn</a> •
 <a href="mailto:hellooo.shifani@gmail.com">Email</a> •
 <a href="https://github.com/Shahila-Shifani">GitHub</a>
