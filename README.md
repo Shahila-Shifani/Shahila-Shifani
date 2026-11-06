@@ -491,7 +491,7 @@ Saegis Campus, Sri Lanka · Year 4 · Expected Graduation: November 2027
 
 ## 🌐 Let's Connect
 
-<a href="https://shifani-portfolio.kesug.com/public/index.php">
+<a href="https://shifani-portfolio.pages.dev">
   <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 <a href="https://www.linkedin.com/in/shahilashifani">
